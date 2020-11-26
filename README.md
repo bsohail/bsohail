@@ -1,4 +1,8 @@
 ### Hi there 👋
+![Bilal's github stats](https://github-readme-stats.vercel.app/api?username=bsohail&show_icons=true&theme=dark)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bsohail&repo=windsor-data-portal)](https://github.com/bsohail/windsor-data-portal)
+
+
 
 <!--
 **bsohail/bsohail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
